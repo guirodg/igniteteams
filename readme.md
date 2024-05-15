@@ -12,3 +12,8 @@ REF: https://tailwindcss.com/docs/guides/create-react-app
 
 npm install --save-dev babel-plugin-module-resolver
 REF:https://github.com/tleunen/babel-plugin-module-resolver/blob/master/DOCS.md
+
+# Google Fonts
+
+npx expo install expo-font @expo-google-fonts/roboto
+REF: https://docs.expo.dev/develop/user-interface/fonts/
