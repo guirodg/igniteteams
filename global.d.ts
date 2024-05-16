@@ -8,4 +8,5 @@ declare global {
 
 declare module "phosphor-react-native" {
   export const CaretLeft: React.FC<IconProps>;
+  export const UsersThree: React<IconProps>;
 }
