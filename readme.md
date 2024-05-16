@@ -17,3 +17,14 @@ REF:https://github.com/tleunen/babel-plugin-module-resolver/blob/master/DOCS.md
 
 npx expo install expo-font @expo-google-fonts/roboto
 REF: https://docs.expo.dev/develop/user-interface/fonts/
+
+# Phosphor Icons
+
+npm install --save phosphor-react-native
+REF: https://phosphoricons.com/
+REF: https://github.com/duongdev/phosphor-react-native
+
+# Expo SVG
+
+npx expo install react-native-svg
+REF: https://docs.expo.dev/versions/latest/sdk/svg/
